@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AppGasEta</string>
+    <string name="txt_titulo">Gasolina x Etanol</string>
+    <string name="txt_hint_primeiro_nome">Primeiro Nome</string>
+    <string name="txt_hint_sobrenome">Sobrenome</string>
+    <string name="txt_hint_nome_do_curso">Nome do Curso Desejado</string>
+    <string name="txt_hint_telefone_de_contato">Telefone para Contato</string>
+    <string name="txt_button_limpar">Limpar</string>
+    <string name="txt_button_salvar">Salvar</string>
+    <string name="txt_button_finalizar">Finalizar</string>
+    <string name="select_curs">Selecione o Curso</string>
+    <string name="welcome_splash">Bem vindo</string>
+</resources>
