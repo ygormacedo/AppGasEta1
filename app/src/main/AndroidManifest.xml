@@ -14,6 +14,8 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AppGasEta"
         tools:targetApi="31">
+        <activity android:name=".view.view.GasEstaActivity"
+            android:exported="false"/>
         <activity
             android:name=".view.view.MainActivity"
             android:exported="false" />

@@ -42,9 +42,13 @@ public class SplashActivity extends AppCompatActivity {
             @Override
             public void run() {
 
-                Intent telaPrincipal = new Intent(SplashActivity.this, MainActivity.class);
+                Intent telaPrincipal = new Intent(
+                        SplashActivity.this,
+                        GasEstaActivity.class);
+
                 startActivity(telaPrincipal);
                 finish();
+
             }
         },TIME_OUT_SPLASH);
     }
