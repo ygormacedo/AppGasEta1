@@ -1,4 +1,4 @@
-package devandroid.macedo.applistacurso.view.view;
+package devandroid.macedo.appgaseta.view.view;
 
 import static android.widget.Toast.LENGTH_LONG;
 
@@ -20,10 +20,10 @@ import androidx.core.view.WindowInsetsCompat;
 
 import java.util.List;
 
-import devandroid.macedo.applistacurso.R;
-import devandroid.macedo.applistacurso.view.controller.CursoController;
-import devandroid.macedo.applistacurso.view.controller.PessoaController;
-import devandroid.macedo.applistacurso.view.model.Pessoa;
+import devandroid.macedo.appgaseta.R;
+import devandroid.macedo.appgaseta.view.controller.CursoController;
+import devandroid.macedo.appgaseta.view.controller.PessoaController;
+import devandroid.macedo.appgaseta.view.model.Pessoa;
 
 
 public class MainActivity extends AppCompatActivity {
@@ -51,7 +51,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         EdgeToEdge.enable(this);
-        setContentView(R.layout.activity_spinner);
+        setContentView(R.layout.activity_main);
         ViewCompat.setOnApplyWindowInsetsListener(findViewById(R.id.main), (v, insets) -> {
             Insets systemBars = insets.getInsets(WindowInsetsCompat.Type.systemBars());
             v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom);

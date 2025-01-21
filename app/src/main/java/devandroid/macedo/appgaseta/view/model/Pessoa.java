@@ -1,6 +1,6 @@
-package devandroid.macedo.applistacurso.view.model;
+package devandroid.macedo.appgaseta.view.model;
 
-import devandroid.macedo.applistacurso.view.view.MainActivity;
+import devandroid.macedo.appgaseta.view.view.MainActivity;
 
 public class Pessoa {
 

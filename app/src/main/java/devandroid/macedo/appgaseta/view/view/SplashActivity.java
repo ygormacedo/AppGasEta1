@@ -1,4 +1,4 @@
-package devandroid.macedo.applistacurso.view.view;
+package devandroid.macedo.appgaseta.view.view;
 
 import android.annotation.SuppressLint;
 import android.content.Intent;
@@ -11,7 +11,8 @@ import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 
-import devandroid.macedo.applistacurso.R;
+import devandroid.macedo.appgaseta.R;
+
 
 @SuppressLint("CustomSplashScreen")
 public class SplashActivity extends AppCompatActivity {

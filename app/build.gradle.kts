@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    namespace = "devandroid.macedo.applistacurso"
+    namespace = "devandroid.macedo.appgaseta"
     compileSdk = 35
 
     defaultConfig {

@@ -1,9 +1,9 @@
-package devandroid.macedo.applistacurso.view.controller;
+package devandroid.macedo.appgaseta.view.controller;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import devandroid.macedo.applistacurso.view.model.Curso;
+import devandroid.macedo.appgaseta.view.model.Curso;
 
 public class CursoController {
 

@@ -9,5 +9,9 @@
     <string name="txt_button_salvar">Salvar</string>
     <string name="txt_button_finalizar">Finalizar</string>
     <string name="select_curs">Selecione o Curso</string>
+    <string name="select_result">Resultado</string>
     <string name="welcome_splash">Bem vindo</string>
+    <string name="button_calculate">CALCULAR</string>
+    <string name="txt_hint_gasolina">Gasoline</string>
+    <string name="txt_hint_etanol">etanol</string>
 </resources>

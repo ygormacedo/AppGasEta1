@@ -1,4 +1,4 @@
-package devandroid.macedo.applistacurso.view.model;
+package devandroid.macedo.appgaseta.view.model;
 
 public class Curso {
 
