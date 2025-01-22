@@ -17,9 +17,6 @@
         <activity android:name=".view.view.GasEstaActivity"
             android:exported="false"/>
         <activity
-            android:name=".view.view.MainActivity"
-            android:exported="false" />
-        <activity
             android:name=".view.view.SplashActivity"
             android:exported="true">
             <intent-filter>
